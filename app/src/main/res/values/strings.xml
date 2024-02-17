@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CalorieScreen</string>
+    <string name="delete_me">DeleteMe</string>
+    <string name="data_extraction_rules">data_extraction_rules</string>
+    <string name="backup_rules">backup_rules</string>
+    <string name="ic_launcher">ic_launcher</string>
+    <string name="ic_launcher_round">ic_launcher_round</string>
+    <string name="theme">Theme.CalorieScreen</string>
+    <string name="screen_orientation">portrait</string>
+    <string name="exported">true</string>
+    <string name="intent_action_main">android.intent.action.MAIN</string>
+    <string name="intent_category_launcher">android.intent.category.LAUNCHER</string>
+    <string name="calories" />
+
+</resources>
